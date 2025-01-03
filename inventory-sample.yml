@@ -3,7 +3,7 @@ k3s_cluster:
   children:
     server:
       hosts:
-        192.16.35.11:
+        1:
     agent:
       hosts:
         192.16.35.12:
